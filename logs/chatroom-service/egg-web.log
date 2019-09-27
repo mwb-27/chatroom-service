@@ -1,0 +1,28 @@
+2019-09-27 17:33:23,023 INFO 2725 [egg:logger] init all loggers with options: {"dir":"/Users/moweibin/study/chatroom-service/logs/chatroom-service","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"chatroom-service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"application"}
+2019-09-27 17:33:23,029 INFO 2725 [egg-multipart] stream mode enable
+2019-09-27 17:33:23,097 INFO 2725 [egg-static] starting static serve /public/ -> /Users/moweibin/study/chatroom-service/app/public
+2019-09-27 17:33:23,099 INFO 2725 [egg-security] use csrf middleware
+2019-09-27 17:33:23,100 INFO 2725 [egg-security] use methodnoallow middleware
+2019-09-27 17:33:23,101 INFO 2725 [egg-security] use noopen middleware
+2019-09-27 17:33:23,102 INFO 2725 [egg-security] use nosniff middleware
+2019-09-27 17:33:23,102 INFO 2725 [egg-security] use xssProtection middleware
+2019-09-27 17:33:23,103 INFO 2725 [egg-security] use xframe middleware
+2019-09-27 17:33:23,103 INFO 2725 [egg-security] use dta middleware
+2019-09-27 17:33:23,103 INFO 2725 [egg-security] compose 7 middlewares into one security middleware
+2019-09-27 17:33:23,113 INFO 2725 [egg:core] dump config after load, 5ms
+2019-09-27 17:33:23,126 INFO 2725 [egg-watcher:application] watcher start success
+2019-09-27 17:33:23,130 INFO 2725 [egg:core] dump config after ready, 3ms
+2019-09-27 19:01:20,958 INFO 3329 [egg:logger] init all loggers with options: {"dir":"/Users/moweibin/study/chatroom-service/logs/chatroom-service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chatroom-service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-09-27 19:01:20,983 INFO 3329 [egg-multipart] stream mode enable
+2019-09-27 19:01:21,071 INFO 3329 [egg-static] starting static serve /public/ -> /Users/moweibin/study/chatroom-service/app/public
+2019-09-27 19:01:21,074 INFO 3329 [egg-security] use csrf middleware
+2019-09-27 19:01:21,075 INFO 3329 [egg-security] use methodnoallow middleware
+2019-09-27 19:01:21,076 INFO 3329 [egg-security] use noopen middleware
+2019-09-27 19:01:21,077 INFO 3329 [egg-security] use nosniff middleware
+2019-09-27 19:01:21,078 INFO 3329 [egg-security] use xssProtection middleware
+2019-09-27 19:01:21,079 INFO 3329 [egg-security] use xframe middleware
+2019-09-27 19:01:21,080 INFO 3329 [egg-security] use dta middleware
+2019-09-27 19:01:21,080 INFO 3329 [egg-security] compose 7 middlewares into one security middleware
+2019-09-27 19:01:21,093 INFO 3329 [egg:core] dump config after load, 9ms
+2019-09-27 19:01:21,107 INFO 3329 [egg-watcher:application] watcher start success
+2019-09-27 19:01:21,113 INFO 3329 [egg:core] dump config after ready, 4ms

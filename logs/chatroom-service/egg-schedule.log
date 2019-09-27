@@ -1,0 +1,12 @@
+2019-09-27 17:33:23,028 INFO 2725 [egg-schedule]: register schedule /Users/moweibin/study/chatroom-service/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 17:33:23,029 INFO 2725 [egg-schedule]: register schedule /Users/moweibin/study/chatroom-service/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-27 17:33:23,029 INFO 2725 [egg-schedule]: register schedule /Users/moweibin/study/chatroom-service/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 17:33:23,134 INFO 2725 [Timer] /Users/moweibin/study/chatroom-service/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 39396869ms at 2019-09-28 04:30:00.003
+2019-09-27 17:33:23,134 INFO 2725 [Timer] /Users/moweibin/study/chatroom-service/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23196866ms at 2019-09-28 00:00:00.000
+2019-09-27 17:33:23,135 INFO 2725 [Timer] /Users/moweibin/study/chatroom-service/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23197865ms at 2019-09-28 00:00:01.000
+2019-09-27 19:01:20,982 INFO 3329 [egg-schedule]: register schedule /Users/moweibin/study/chatroom-service/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2019-09-27 19:01:20,982 INFO 3329 [egg-schedule]: register schedule /Users/moweibin/study/chatroom-service/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-09-27 19:01:20,982 INFO 3329 [egg-schedule]: register schedule /Users/moweibin/study/chatroom-service/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-09-27 19:01:21,121 INFO 3328 [Timer] /Users/moweibin/study/chatroom-service/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34118884ms at 2019-09-28 04:30:00.005
+2019-09-27 19:01:21,121 INFO 3328 [Timer] /Users/moweibin/study/chatroom-service/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 17918879ms at 2019-09-28 00:00:00.000
+2019-09-27 19:01:21,121 INFO 3328 [Timer] /Users/moweibin/study/chatroom-service/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17919879ms at 2019-09-28 00:00:01.000

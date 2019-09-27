@@ -1,0 +1,30 @@
+{
+  "name": "chatroom-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwb-27/chatroom-service.git"
+  },
+  "author": "moweibin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwb-27/chatroom-service/issues"
+  },
+  "homepage": "https://github.com/mwb-27/chatroom-service#readme",
+  "dependencies": {
+    "egg": "^2.23.0",
+    "egg-view-nunjucks": "^2.2.0",
+    "moment": "^2.24.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.13.0",
+    "egg-mock": "^3.24.0"
+  }
+}

@@ -1,0 +1,24 @@
+2019-09-27 17:33:22,648 INFO 2725 [egg:logger] init all loggers with options: {"dir":"/Users/moweibin/study/chatroom-service/logs/chatroom-service","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"chatroom-service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"allowDebugAtProd":false,"type":"agent"}
+2019-09-27 17:33:22,660 INFO 2725 [egg:core] dump config after load, 6ms
+2019-09-27 17:33:22,724 INFO 2725 [egg-watcher:agent] watcher start success
+2019-09-27 17:33:22,732 INFO 2725 [egg:core] dump config after ready, 5ms
+2019-09-27 19:00:50,548 INFO 3321 [egg:logger] init all loggers with options: {"dir":"/Users/moweibin/study/chatroom-service/logs/chatroom-service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chatroom-service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-27 19:00:50,564 INFO 3321 [egg:core] dump config after load, 6ms
+2019-09-27 19:00:50,629 INFO 3321 [egg-watcher] Start watching: ["/Users/moweibin/study/chatroom-service/app","/Users/moweibin/study/chatroom-service/config","/Users/moweibin/study/chatroom-service/mocks","/Users/moweibin/study/chatroom-service/mocks_proxy","/Users/moweibin/study/chatroom-service/app.js"]
+2019-09-27 19:00:50,629 INFO 3321 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/app"
+2019-09-27 19:00:50,629 INFO 3321 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/config"
+2019-09-27 19:00:50,629 INFO 3321 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/mocks"
+2019-09-27 19:00:50,629 INFO 3321 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/mocks_proxy"
+2019-09-27 19:00:50,629 INFO 3321 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/app.js"
+2019-09-27 19:00:50,630 INFO 3321 [egg-watcher:agent] watcher start success
+2019-09-27 19:00:50,662 INFO 3321 [egg:core] dump config after ready, 4ms
+2019-09-27 19:01:20,090 INFO 3328 [egg:logger] init all loggers with options: {"dir":"/Users/moweibin/study/chatroom-service/logs/chatroom-service","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chatroom-service-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-09-27 19:01:20,105 INFO 3328 [egg:core] dump config after load, 4ms
+2019-09-27 19:01:20,152 INFO 3328 [egg-watcher] Start watching: ["/Users/moweibin/study/chatroom-service/app","/Users/moweibin/study/chatroom-service/config","/Users/moweibin/study/chatroom-service/mocks","/Users/moweibin/study/chatroom-service/mocks_proxy","/Users/moweibin/study/chatroom-service/app.js"]
+2019-09-27 19:01:20,152 INFO 3328 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/app"
+2019-09-27 19:01:20,153 INFO 3328 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/config"
+2019-09-27 19:01:20,153 INFO 3328 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/mocks"
+2019-09-27 19:01:20,153 INFO 3328 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/mocks_proxy"
+2019-09-27 19:01:20,153 INFO 3328 [egg-watcher] Start watching: "/Users/moweibin/study/chatroom-service/app.js"
+2019-09-27 19:01:20,153 INFO 3328 [egg-watcher:agent] watcher start success
+2019-09-27 19:01:20,171 INFO 3328 [egg:core] dump config after ready, 4ms
